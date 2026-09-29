@@ -15,3 +15,4 @@ Lists the next 10 events. A green check will appear before any event with game i
 
 Note:
 The bot will check the environmental variable to find the calendar, discord, and guild IDs.
+credentials.json is also required
